@@ -1,1 +1,7 @@
 # A3-project
+My project focuses on analyzing public transport data in New South Wales. Using tools such as Tableau and Excel, I aim to create dynamic visualizations and charts that illustrate public transport flows and congestion.
+The data visualization dashboard comprises a total of four sets of visualization charts.
+Pie Chart: A visualization depicting the percentage distribution of individuals traveling in NSW based on various modes of public transport
+Bar Chart 1: A comparative representation of travel patterns within NSW, contrasting the number of journeys from stations in July 2023 and July 2022 across different travel modes. The chart includes data on the difference between the option period (2023) and the base period (2022), along with the corresponding percentage of this difference.
+Bar Chart 2: A data visualization illustrating the modes of transportation people use to commute to work in 2016 and 2022. The chart encompasses 20 distinct modes of travel, allowing users to click on individual bars to view details such as the specific mode of travel and the corresponding number of people using that mode in both 2016 and 2022.
+Map Chart: A data visualization representing the traffic flow on different roads within NSW. The visualization incorporates filters to segregate traffic volume on various suburb roads during different time periods, including morning peak, evening peak, weekends, and weekdays. Users can interact with the chart by clicking on circles to view detailed information, including the road name and traffic volume.
